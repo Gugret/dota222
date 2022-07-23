@@ -3,12 +3,12 @@
     
     <body style="font-family:franklin gothic medium;">
         <header style="background-color:#4d2f34">
-            <table style="border-collapse:collapse;font-size:20px">
+            <table style="border-collapse:collapse;font-size:20px;background-color:#4d2f34">
                 <tr>
-                    <td id="dota" style="color:#4d2f34">.....................................</td>
-                    <td><a href="#team" style="color:black">Dota и команда</a></td>
-                    <td style="color:#4d2f34">.......................................</td>
-                    <td><a href="#rating" style="color:black">Звания в Dota2</a></td>
+                    <td id="dota" style="color:#4d2f34;background-color:#4d2f34">.....................................</td>
+                    <td><a href="#team" style="color:black;background-color:#4d2f34">Dota и команда</a></td>
+                    <td style="color:#4d2f34;background-color:#4d2f34">.......................................</td>
+                    <td><a href="#rating" style="color:black;background-color:#4d2f34">Звания в Dota2</a></td>
 
                     
                 </tr>
