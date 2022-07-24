@@ -18,10 +18,10 @@
             <h1  style="font-size:50px;text-align:center">
                 Dota2
                 </h1>
-                <img src="https://cybersport.metaratings.ru/storage/images/90/7b/907b4fa2f71c17184d9ee01182fdd3ab.jpg" width="270px" heigh="270px"/>
+                <img src="https://cybersport.metaratings.ru/storage/images/90/7b/907b4fa2f71c17184d9ee01182fdd3ab.jpg" />
     
-    <img src="https://ggdt.ru/file/2020/04/dota_2_logo_emblem_510948_2048x1152.jpg" width="270px" heigh="270px"/>
-     <img src="https://static.goodgame.ru/files/pics/218473_sT0z.jpg" width="280px" heigh="270px"/>
+    <img src="https://ggdt.ru/file/2020/04/dota_2_logo_emblem_510948_2048x1152.jpg" />
+     <img src="https://static.goodgame.ru/files/pics/218473_sT0z.jpg" />
 
         
 
@@ -32,7 +32,7 @@
         <p style="font-size:20px">
             <font color="#731526">Главная цель уничтожить главное здание на базе противника. </font>
         </p>
-    <img src="https://barbarcheat.com/wp-content/uploads/2020/02/dota-2-ancient.png" width="800px" heigh="600px"/>
+    <img src="https://barbarcheat.com/wp-content/uploads/2020/02/dota-2-ancient.png" />
     
             <h2 id ="team" style="font-size:40px">
                 Dota - это командная игра!
@@ -111,7 +111,7 @@
             
         </tr>
     </table>
-        <p style="font-size:20px"><font color="#731526">Наивысшее звание - это "Титан":<br/><img src="https://steamuserimages-a.akamaihd.net/ugc/1293045508473561485/E5E9CCC38D3784E90165DD00B041D77ABB5DF0D9/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="300px" heigh="300px"/></font></p>
+        <p style="font-size:20px"><font color="#731526">Наивысшее звание - это "Титан":<br/><img src="https://steamuserimages-a.akamaihd.net/ugc/1293045508473561485/E5E9CCC38D3784E90165DD00B041D77ABB5DF0D9/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" /></font></p>
         </main>
 
         <footer style="background-color:#4d2f34; font-family:arial">
