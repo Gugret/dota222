@@ -4,7 +4,7 @@
     <body style="font-family:franklin gothic medium;">
         <header style="background-color:#4d2f34">
             <table style="border-collapse:collapse;font-size:20px;background-color:#4d2f34">
-                <tr>
+                <tr style="background-color:#4d2f34">
                     <td id="dota" style="color:#4d2f34;background-color:#4d2f34">.....................................</td>
                     <td><a href="#team" style="color:black;background-color:#4d2f34">Dota и команда</a></td>
                     <td style="color:#4d2f34;background-color:#4d2f34">.......................................</td>
