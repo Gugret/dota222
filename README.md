@@ -4,9 +4,9 @@
         <table style="font-size:20px;background-color:#4d2f34;border:1px solid #4d2f34">
             <tr style="background-color:#4d2f34;border:1px solid #4d2f34">
                 <td id="dota" style="color:#4d2f34;background-color:#4d2f34;border:1px solid #4d2f34">.....................................</td>
-                <td><a href="#team" style="color:black;background-color:#4d2f34;border:1px solid #4d2f34">Dota и команда</a></td>
+                <td <a href="#team" style="color:black;background-color:#4d2f34;border:1px solid #4d2f34">>Dota и команда</a></td>
                 <td style="color:#4d2f34;background-color:#4d2f34;border:1px solid #4d2f34">.......................................</td>
-                <td><a href="#rating" style="color:black;background-color:#4d2f34;border:1px solid #4d2f34">Звания в Dota2</a></td>
+                <td <a href="#rating" style="color:black;background-color:#4d2f34;border:1px solid #4d2f34">>Звания в Dota2</a></td>
 
                 
             </tr>
