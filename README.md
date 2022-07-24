@@ -1,7 +1,7 @@
 <html>
     <title>Dota2</title>
     
-    <body style="font-family:franklin gothic medium;width="800px" heigh="600"">
+    <body style="font-family:franklin gothic medium;">
         <header style="background-color:#4d2f34">
             <table style="border-collapse:collapse;font-size:20px;background-color:#4d2f34">
                 <tr style="background-color:#4d2f34">
